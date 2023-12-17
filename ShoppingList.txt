@@ -4,3 +4,5 @@ Bananas
 Carrots
 Beans
 Tomatoes
+Cucumber
+Raddishes
